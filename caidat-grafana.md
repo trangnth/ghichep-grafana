@@ -1,9 +1,10 @@
-﻿# Các ghi chép về Grafana
+# Các ghi chép về Grafana
 
 ***
 ## Cài đặt grafana 3.x
 ***
 - Cài đặt grafana 3.x
+
 ```sh
 wget http://mirror1.net.one.com/grafana/testing/debian/pool/jessie/main/g/grafana/grafana_3.0.0-beta11459429091_amd64.deb
 sudo apt-get install -y adduser libfontconfig
